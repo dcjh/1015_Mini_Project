@@ -9,12 +9,6 @@
 3. [Machine Learning](#machine-learning)
 4. [Conclusion](#conclusion)
 
-### Contributors
-
-- Darrick
-- Siaw Xuan
-- Felis
-
 ## Dataset
 
 Customer Personality Analysis Dataset: [Link to Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
@@ -75,3 +69,10 @@ We employed the following models using the SciKit-Learn libraries:
 ## Conclusion
 
 The most accurate machine learning model for predictions was the Random Forest Regression.
+
+### Contributors
+
+- Darrick
+- Siaw Xuan
+- Felis
+
