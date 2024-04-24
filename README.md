@@ -72,7 +72,8 @@ The most accurate machine learning model for predictions was the Random Forest R
 
 ## Contributors
 
-- Darrick
-- Siaw Xuan
-- Felis
+Darrick - EDA, K-Nearest Neighbours, ReadME, Video
+Felis - EDA, Gradient Boosting, ReadME, Video
+Siaw Xuan - EDA, Random Forest, ReadME, Video
+
 
