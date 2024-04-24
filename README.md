@@ -70,7 +70,7 @@ We employed the following models using the SciKit-Learn libraries:
 
 The most accurate machine learning model for predictions was the Random Forest Regression.
 
-### Contributors
+## Contributors
 
 - Darrick
 - Siaw Xuan
